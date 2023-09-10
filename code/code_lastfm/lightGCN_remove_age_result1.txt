@@ -1,0 +1,641 @@
+年龄下LightGCN+GAN
+epoch:0 time:318.2  train_loss f:-106.4379 d:10.6277  test_rmse:1.2043
+
+epoch:1 time:322.4  train_loss f:-105.8328 d:10.5953  test_rmse:0.9633
+
+epoch:2 time:321.2  train_loss f:-105.8332 d:10.5931  test_rmse:0.9714
+
+epoch:3 time:323.0  train_loss f:-105.8328 d:10.5933  test_rmse:0.9547
+
+epoch:4 time:325.3  train_loss f:-105.8359 d:10.593  test_rmse:0.9276age f1:0.4694	0.4694 0.4694 0.4694 0.4694 0.4694 0.4694 0.4694 0.4694 0.4694 0.4694 
+
+年龄下LightGCN+GAN
+年龄下LightGCN+GAN
+epoch:0 time:322.8  train_loss f:-106.1437 d:10.5993  test_rmse:1.3737
+
+epoch:1 time:318.9  train_loss f:-117.2902 d:10.5738  test_rmse:3.0302
+
+epoch:2 time:312.5  train_loss f:-105.7864 d:10.6176  test_rmse:0.9581
+
+epoch:3 time:318.2  train_loss f:-105.8339 d:10.5931  test_rmse:0.939 
+
+epoch:4 time:310.9  train_loss f:-105.84 d:10.5928  test_rmse:0.9224age f1:0.4665	0.4665 0.4665 0.4665 
+
+年龄下LightGCN+GAN
+epoch:0 time:310.2  train_loss f:-106.0746 d:10.6003  test_rmse:1.2496
+
+epoch:1 time:307.6  train_loss f:-106.8043 d:10.5937  test_rmse:0.8916
+
+epoch:2 time:309.4  train_loss f:-121.6542 d:10.5586  test_rmse:2.1135
+
+epoch:3 time:309.0  train_loss f:-105.817 d:10.6247  test_rmse:0.8453
+
+epoch:4 time:308.4  train_loss f:-117.6338 d:10.5731  test_rmse:2.5589
+
+年龄下LightGCN+GAN
+epoch:0 time:307.1  train_loss f:-107.1237 d:10.7539  test_rmse:1.1909
+
+epoch:1 time:317.1  train_loss f:-105.859 d:10.5978  test_rmse:1.2788
+
+epoch:2 time:303.8  train_loss f:-117.0246 d:10.5643  test_rmse:3.65  
+
+epoch:3 time:303.0  train_loss f:-105.785 d:10.64   test_rmse:1.025 
+
+epoch:4 time:310.2  train_loss f:-105.8402 d:10.5935  test_rmse:0.9726
+
+epoch:5 time:307.5  train_loss f:-117.0933 d:10.5924  test_rmse:1.8043
+
+epoch:6 time:305.5  train_loss f:-105.8468 d:11.9954  test_rmse:0.9765
+
+epoch:7 time:304.4  train_loss f:-106.4502 d:10.5831  test_rmse:2.1669
+
+epoch:8 time:304.7  train_loss f:-105.8732 d:10.6007  test_rmse:0.8916
+
+epoch:9 time:304.4  train_loss f:-105.9451 d:10.5868  test_rmse:0.994 
+
+epoch:10 time:302.4 train_loss f:-105.8287 d:10.5934  test_rmse:0.9456
+
+epoch:11 time:301.4 train_loss f:-105.83 d:10.5928  test_rmse:0.9501age f1:0.471	0.471 0.471 0.471 
+
+年龄下LightGCN+GAN
+年龄下LightGCN+GAN
+年龄下LightGCN+GAN
+epoch:0 time:300.6  train_loss f:-107.278 d:10.6063  test_rmse:2.3457
+
+epoch:1 time:310.2  train_loss f:-124.0769 d:10.588  test_rmse:1.4262
+
+epoch:2 time:306.1  train_loss f:-106.7971 d:10.6867  test_rmse:0.9388
+
+epoch:3 time:303.1  train_loss f:-106.205 d:10.5865  test_rmse:0.9382
+
+epoch:4 time:304.4  train_loss f:-105.8275 d:10.5955  test_rmse:0.9395
+
+epoch:5 time:306.9  train_loss f:-105.9729 d:10.5903  test_rmse:0.9504
+
+epoch:6 time:305.1  train_loss f:-105.9083 d:10.5902  test_rmse:0.9524
+
+epoch:7 time:304.2  train_loss f:-105.8328 d:10.593  test_rmse:0.9535
+
+epoch:8 time:304.3  train_loss f:-105.8345 d:10.593  test_rmse:0.955 
+
+epoch:9 time:306.6  train_loss f:-105.8354 d:10.5928  test_rmse:0.9542
+
+epoch:10 time:307.4 train_loss f:-105.8329 d:10.593  test_rmse:0.9546
+
+epoch:11 time:304.0 train_loss f:-105.8331 d:10.5929  test_rmse:0.9551
+
+epoch:12 time:302.1 train_loss f:-105.8345 d:10.593  test_rmse:0.9548
+
+epoch:13 time:307.0 train_loss f:-105.8437 d:10.5928  test_rmse:0.9541
+
+epoch:14 time:308.7 train_loss f:-105.9973 d:10.5876  test_rmse:0.9523
+
+epoch:15 time:305.1 train_loss f:-105.8372 d:10.5934  test_rmse:0.9516
+
+epoch:16 time:305.9 train_loss f:-105.8366 d:10.593  test_rmse:0.9497
+
+epoch:17 time:305.6 train_loss f:-105.8356 d:10.5928  test_rmse:0.951 
+
+epoch:18 time:307.6 train_loss f:-105.8368 d:10.5927  test_rmse:0.9559
+
+epoch:19 time:303.4 train_loss f:-105.8354 d:10.593  test_rmse:0.957 
+
+epoch:20 time:311.4 train_loss f:-105.8388 d:10.5928  test_rmse:0.9544
+
+epoch:21 time:307.6 train_loss f:-105.9888 d:10.5909  test_rmse:0.9638age f1:0.4669	0.4669 0.4669 0.4669 
+
+epoch:22 time:309.2 train_loss f:-105.836 d:10.5932  test_rmse:0.9528age f1:0.4699	0.4699 0.4699 0.4699 
+
+epoch:23 time:307.0 train_loss f:-105.8357 d:10.5929  test_rmse:0.9507age f1:0.4704	0.4704 0.4704 0.4704 0.4704 0.4704 0.4704 0.4704 0.4704 
+
+epoch:24 time:303.4 train_loss f:-105.8364 d:10.5926  test_rmse:0.9514age f1:0.468	0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 0.468 
+
+epoch:25 time:303.7 train_loss f:-107.4107 d:10.5927  test_rmse:0.9785age f1:0.4725	0.4725 0.4725 0.4725 
+
+年龄下LightGCN+GAN
+epoch:0 time:308.7  train_loss f:-108.5919 d:10.8694  test_rmse:0.9785
+
+epoch:1 time:311.7  train_loss f:-108.5888 d:10.8693  test_rmse:0.9785
+
+epoch:2 time:310.7  train_loss f:-108.5899 d:10.869  test_rmse:0.9785
+
+年龄下LightGCN+GAN
+epoch:0 time:304.7  train_loss f:-106.2699 d:10.6217  test_rmse:0.8428
+
+epoch:1 time:302.9  train_loss f:-121.1572 d:10.558  test_rmse:2.1674
+
+epoch:2 time:302.8  train_loss f:-105.7802 d:10.6344  test_rmse:0.9457
+
+epoch:3 time:307.6  train_loss f:-105.8274 d:10.593  test_rmse:0.9494
+
+epoch:4 time:305.3  train_loss f:-105.8288 d:10.5929  test_rmse:0.9516
+
+epoch:5 time:308.3  train_loss f:-105.8293 d:10.5929  test_rmse:0.9528
+
+epoch:6 time:313.8  train_loss f:-105.8326 d:10.5928  test_rmse:0.9494
+
+epoch:7 time:303.8  train_loss f:-105.8325 d:10.5927  test_rmse:0.9473
+
+epoch:8 time:304.3  train_loss f:-105.8363 d:10.5929  test_rmse:0.9337
+
+epoch:9 time:317.0  train_loss f:-111.51 d:10.5845  test_rmse:3.449 
+
+epoch:10 time:314.4 train_loss f:-110.4941 d:10.6019  test_rmse:2.8731
+
+年龄下LightGCN+GAN,之前的rmse下降太慢，这次把lamd改为论文中的0.2，看效果
+epoch:0 time:302.9  train_loss f:26.5007 d:2.1215   test_rmse:0.9608
+
+epoch:1 time:317.6  train_loss f:7.0292 d:2.1187    test_rmse:0.8937
+
+epoch:2 time:310.9  train_loss f:5.5616 d:2.1153    test_rmse:0.761 
+
+epoch:3 time:308.3  train_loss f:2.9097 d:2.1001    test_rmse:0.5841
+
+epoch:4 time:311.2  train_loss f:1.3327 d:2.0931    test_rmse:0.595 
+
+epoch:5 time:315.4  train_loss f:1.0272 d:2.0918    test_rmse:0.6024
+
+epoch:6 time:308.7  train_loss f:0.8618 d:2.0906    test_rmse:0.6077
+
+epoch:7 time:314.1  train_loss f:0.7518 d:2.09      test_rmse:0.6055
+
+epoch:8 time:315.2  train_loss f:0.6833 d:2.0896    test_rmse:0.6069
+
+epoch:9 time:309.4  train_loss f:0.6273 d:2.0893    test_rmse:0.6097
+
+epoch:10 time:311.7 train_loss f:0.5887 d:2.0892    test_rmse:0.6141
+
+epoch:11 time:310.1 train_loss f:0.5644 d:2.089     test_rmse:0.6102
+
+epoch:12 time:311.5 train_loss f:0.5421 d:2.0888    test_rmse:0.6094
+
+epoch:13 time:313.6 train_loss f:0.5242 d:2.0887    test_rmse:0.6111
+
+年龄下LightGCN+GAN,lamd=0.2,效果可以，这次直接从第5轮开始跑，每轮都测f1
+epoch:14 time:323.5 train_loss f:0.5067 d:2.0886    test_rmse:0.6114
+
+epoch:0 time:346.0  train_loss f:3.2523 d:2.0905    test_rmse:0.5853age f1:0.4705	0.4705 0.4705 0.4705 
+
+epoch:1 time:322.2  train_loss f:0.9389 d:2.0908    test_rmse:0.5967age f1:0.4703	0.4703 0.4703 0.4703 0.4703 0.4703 0.4703 
+
+epoch:2 time:319.0  train_loss f:0.8011 d:2.0901    test_rmse:0.6021age f1:0.47	0.47 0.47 0.47 
+
+epoch:3 time:325.3  train_loss f:0.7285 d:2.0898    test_rmse:0.6044age f1:0.4679	0.4679 0.4679 0.4679 
+
+epoch:4 time:324.2  train_loss f:0.6711 d:2.0894    test_rmse:0.6067age f1:0.4657	0.4657 0.4657 0.4657 
+
+epoch:5 time:320.2  train_loss f:0.6299 d:2.0892    test_rmse:0.6071age f1:0.4689	0.4689 0.4689 0.4689 0.4689 0.4689 0.4689 0.4689 0.4689 0.4689 0.4689 
+
+epoch:6 time:319.8  train_loss f:0.5938 d:2.0891    test_rmse:0.6047age f1:0.4669	0.4669 0.4669 0.4669 
+
+epoch:7 time:329.5  train_loss f:0.5609 d:2.0889    test_rmse:0.6053age f1:0.4704	0.4704 0.4704 0.4704 
+
+epoch:8 time:334.4  train_loss f:0.5377 d:2.0888    test_rmse:0.607 age f1:0.4825	0.481 0.4812 0.483 0.4837 0.4837 0.4838 0.4836 0.4825 
+
+epoch:9 time:335.2  train_loss f:0.5181 d:2.0888    test_rmse:0.6063age f1:0.4683	0.4683 0.4683 0.4683 
+
+epoch:10 time:331.7 train_loss f:0.5023 d:2.0887    test_rmse:0.6064age f1:0.4686	0.4686 0.4686 0.4686 
+
+epoch:11 time:341.8 train_loss f:0.4895 d:2.0885    test_rmse:0.6076age f1:0.4682	0.4682 0.4682 0.4682 
+
+epoch:12 time:330.1 train_loss f:0.4783 d:2.0885    test_rmse:0.6085age f1:0.4703	0.4703 0.4703 0.4703 
+
+epoch:13 time:331.7 train_loss f:0.4677 d:2.0884    test_rmse:0.6067age f1:0.4668	0.4668 0.4668 0.4668 
+
+epoch:14 time:324.1 train_loss f:0.4615 d:2.0883    test_rmse:0.609 age f1:0.4697	0.4697 0.4697 0.4697 
+
+epoch:15 time:320.5 train_loss f:0.4523 d:2.0883    test_rmse:0.6076age f1:0.4682	0.4682 0.4682 0.4682 
+
+epoch:16 time:324.0 train_loss f:0.4479 d:2.0883    test_rmse:0.6079age f1:0.4711	0.4711 0.4711 0.4711 
+
+epoch:17 time:325.4 train_loss f:0.4434 d:2.0883    test_rmse:0.6093age f1:0.4678	0.4678 0.4678 0.4678 
+
+epoch:18 time:326.7 train_loss f:0.4352 d:2.0883    test_rmse:0.6115age f1:0.4678	0.4678 0.4678 0.4678 
+
+epoch:19 time:331.1 train_loss f:0.4298 d:2.0883    test_rmse:0.609 age f1:0.4683	0.4683 0.4683 0.4683 
+
+epoch:20 time:331.6 train_loss f:0.4262 d:2.0883    test_rmse:0.608 age f1:0.4667	0.4667 0.4667 0.4667 
+
+epoch:21 time:329.4 train_loss f:0.4178 d:2.0883    test_rmse:0.6104age f1:0.4685	0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 
+
+epoch:22 time:319.0 train_loss f:0.4177 d:2.0884    test_rmse:0.6091age f1:0.4687	0.4687 0.4687 0.4687 
+
+epoch:23 time:332.5 train_loss f:0.4148 d:2.0883    test_rmse:0.6093age f1:0.4723	0.4723 0.4723 0.4723 
+
+epoch:24 time:325.9 train_loss f:0.4087 d:2.0884    test_rmse:0.6106age f1:0.4675	0.4675 0.4675 0.4675 0.4675 0.4675 0.4675 0.4675 0.4675 0.4675 0.4675 0.4675 0.4675 
+
+epoch:25 time:327.3 train_loss f:0.4079 d:2.0884    test_rmse:0.6093age f1:0.47	0.47 0.47 0.47 
+
+epoch:26 time:328.2 train_loss f:0.4069 d:2.0884    test_rmse:0.61  age f1:0.4702	0.4702 0.4702 0.4702 
+
+epoch:27 time:326.3 train_loss f:0.4015 d:2.0884    test_rmse:0.6112age f1:0.4695	0.4695 0.4695 0.4695 0.4695 0.4695 0.4695 0.4695 0.4695 0.4695 0.4695 0.4695 
+
+epoch:28 time:333.4 train_loss f:0.396 d:2.0885     test_rmse:0.6108age f1:0.468	0.468 0.468 0.468 
+
+epoch:29 time:326.3 train_loss f:0.3947 d:2.0885    test_rmse:0.6094age f1:0.4667	0.4667 0.4667 0.4667 0.4667 0.4667 0.4667 0.4667 0.4667 
+
+epoch:30 time:325.8 train_loss f:0.3951 d:2.0885    test_rmse:0.6117age f1:0.4718	0.4718 0.4718 0.4718 0.4718 0.4718 0.4718 0.4718 0.4718 0.4718 0.4718 
+
+epoch:31 time:324.2 train_loss f:0.3932 d:2.0885    test_rmse:0.6095age f1:0.4687	0.4687 0.4687 0.4687 0.4687 0.4687 0.4687 0.4687 0.4687 0.4687 
+
+epoch:32 time:330.0 train_loss f:0.3952 d:2.0883    test_rmse:0.6106age f1:0.471	0.471 0.471 0.471 
+
+epoch:33 time:330.0 train_loss f:0.3891 d:2.0884    test_rmse:0.6101age f1:0.4697	0.4697 0.4697 0.4697 0.4697 0.4697 0.4697 0.4697 0.4697 0.4697 0.4697 
+
+epoch:34 time:324.2 train_loss f:0.3858 d:2.0881    test_rmse:0.6108age f1:0.4693	0.4693 0.4693 0.4693 
+
+epoch:35 time:326.3 train_loss f:0.3905 d:2.0883    test_rmse:0.6107age f1:0.4701	0.4701 0.4701 0.4701 
+
+epoch:36 time:324.9 train_loss f:0.3881 d:2.0881    test_rmse:0.6119age f1:0.4685	0.4685 0.4685 0.4685 
+
+epoch:37 time:320.0 train_loss f:0.3829 d:2.0881    test_rmse:0.6104age f1:0.4665	0.4665 0.4665 0.4665 0.4665 0.4665 0.4665 0.4665 0.4665 0.4665 
+
+epoch:38 time:321.3 train_loss f:0.3822 d:2.0881    test_rmse:0.6096age f1:0.4683	0.4683 0.4683 0.4683 
+
+epoch:39 time:323.1 train_loss f:0.3772 d:2.0882    test_rmse:0.6109age f1:0.4705	0.4705 0.4705 0.4705 
+
+epoch:40 time:326.4 train_loss f:0.3768 d:2.0882    test_rmse:0.611 age f1:0.4673	0.4673 0.4673 0.4673 
+
+epoch:41 time:324.9 train_loss f:0.3706 d:2.0881    test_rmse:0.6113age f1:0.4668	0.4668 0.4668 0.4668 0.4668 0.4668 0.4668 0.4668 0.4668 
+
+epoch:42 time:325.1 train_loss f:0.378 d:2.0882     test_rmse:0.6114age f1:0.4696	0.4696 0.4696 0.4696 
+
+年龄下LightGCN+GAN,lamd=5，跑RecFair
+年龄下LightGCN+GAN,lamd=5，跑RecFair
+epoch:0 time:357.9  train_loss f:-503.4317 d:10.6472  test_rmse:0.9471	fairness:0.2839
+
+epoch:1 time:273.1  train_loss f:-520.2146 d:10.5931  test_rmse:0.9079	fairness:0.2839age f1:0.469	0.469 0.469 0.469 
+
+epoch:2 time:268.3  train_loss f:-571.2168 d:10.5835  test_rmse:0.8655	fairness:0.2839age f1:0.4688	0.4688 0.4688 0.4688 0.4688 0.4688 0.4688 0.4688 
+
+epoch:3 time:271.4  train_loss f:-530.3185 d:10.6547  test_rmse:0.7179	fairness:0.2839age f1:0.4689	0.4689 0.4689 0.4689 
+
+epoch:4 time:270.9  train_loss f:-607.3248 d:10.5489  test_rmse:0.8079	fairness:0.2839age f1:0.4661	0.4661 0.4661 0.4661 0.4661 0.4661 0.4661 0.4661 0.4661 0.4661 0.4661 0.4661 0.4661 0.4661 
+
+epoch:5 time:284.4  train_loss f:-624.1523 d:12.5771  test_rmse:0.6067	fairness:0.2839age f1:0.47	0.47 0.47 0.47 0.47 0.47 0.47 0.47 0.47 0.47 
+
+epoch:6 time:290.6  train_loss f:-625.2138 d:12.5772  test_rmse:0.618 	fairness:0.2839age f1:0.471	0.471 0.471 0.471 
+
+epoch:7 time:285.3  train_loss f:-625.4879 d:12.5773  test_rmse:0.6224	fairness:0.2839age f1:0.4713	0.4713 0.4713 0.4713 0.4713 0.4713 0.4713 0.4713 0.4713 0.4713 0.4713 0.4713 
+
+epoch:8 time:292.1  train_loss f:-527.9932 d:11.9468  test_rmse:0.7168	fairness:0.2839age f1:0.4683	0.4683 0.4683 0.4683 
+
+epoch:9 time:284.6  train_loss f:-534.633 d:10.5211  test_rmse:0.6448	fairness:0.2839age f1:0.4792	0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4685 0.4686 0.4698 0.4715 0.4726 0.4729 0.4756 0.4784 0.4794 0.4792 0.4792 0.4819 0.4792 
+
+epoch:10 time:271.0 train_loss f:-530.6738 d:10.504  test_rmse:0.7165	fairness:0.2839age f1:0.4713	0.4713 0.4713 0.4713 
+
+epoch:11 time:292.7 train_loss f:-585.0295 d:10.5096  test_rmse:0.687 	fairness:0.2839age f1:0.4673	0.4673 0.4673 0.4673 
+
+epoch:12 time:288.2 train_loss f:-579.2669 d:10.6087  test_rmse:0.6171	fairness:0.2839age f1:0.4672	0.4672 0.4672 0.4672 0.4672 0.4672 0.4672 0.4672 0.4672 
+
+epoch:13 time:292.7 train_loss f:-544.5267 d:10.564  test_rmse:0.6317	fairness:0.2839age f1:0.4671	0.4671 0.4671 0.4671 
+
+epoch:14 time:294.7 train_loss f:-529.9016 d:10.5159  test_rmse:0.7554	fairness:0.2839age f1:0.4863	0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4711 0.4722 0.4742 0.4756 0.4762 0.4769 0.4801 0.4825 0.4828 0.4833 0.4848 0.485 0.4847 0.4848 0.4839 0.4847 0.4838 0.4863 
+
+epoch:15 time:288.4 train_loss f:-559.1431 d:10.5165  test_rmse:0.6971	fairness:0.2839age f1:0.4721	0.4721 0.4721 0.4721 0.4721 0.4721 0.4721 0.4721 0.4721 0.4721 0.4721 
+
+epoch:16 time:290.6 train_loss f:-532.3252 d:10.5363  test_rmse:0.68  	fairness:0.2839age f1:0.4816	0.4823 0.4805 0.4827 0.4809 0.4824 0.4816 
+
+年龄下FairGo,lamd=5，跑RecFair
+epoch:0 time:387.0  train_loss f:-768.1696 d:15.8831  test_rmse:0.9412	fairness:0.2839
+
+epoch:1 time:303.2  train_loss f:-797.3128 d:15.8599  test_rmse:0.8395	fairness:0.4775
+
+epoch:2 time:291.5  train_loss f:-801.1748 d:15.8559  test_rmse:0.7269	fairness:0.2839
+
+epoch:3 time:285.7  train_loss f:-796.5247 d:15.8356  test_rmse:0.7005	fairness:0.2839
+
+epoch:4 time:304.9  train_loss f:-866.9188 d:15.8517  test_rmse:0.703 	fairness:0.2839
+
+epoch:5 time:301.2  train_loss f:-787.8411 d:16.1938  test_rmse:0.6733	fairness:0.2839
+
+epoch:6 time:293.6  train_loss f:-887.3027 d:15.8465  test_rmse:0.6803	fairness:0.2839
+
+epoch:7 time:310.3  train_loss f:-811.6176 d:15.9143  test_rmse:0.674 	fairness:0.2839
+
+epoch:8 time:293.7  train_loss f:-802.2031 d:15.7841  test_rmse:0.6758	fairness:0.2837
+
+epoch:9 time:301.6  train_loss f:-791.4098 d:15.8378  test_rmse:0.6916	fairness:0.2829
+
+epoch:10 time:305.4 train_loss f:-842.6759 d:15.7339  test_rmse:0.8026	fairness:0.2815
+
+epoch:11 time:298.3 train_loss f:-873.3491 d:15.9489  test_rmse:0.7107	fairness:0.2797
+
+epoch:12 time:304.3 train_loss f:-797.8185 d:15.8911  test_rmse:0.7332	fairness:0.2819
+
+epoch:13 time:293.1 train_loss f:-805.5718 d:15.863  test_rmse:0.6866	fairness:0.2809
+
+epoch:14 time:296.4 train_loss f:-817.8482 d:15.8198  test_rmse:0.9076	fairness:0.2843
+
+epoch:15 time:301.8 train_loss f:-792.8775 d:15.8585  test_rmse:0.84  	fairness:0.2648
+
+epoch:16 time:306.5 train_loss f:-811.371 d:15.7739  test_rmse:0.8322	fairness:0.2158
+
+epoch:17 time:299.8 train_loss f:-798.1345 d:15.7728  test_rmse:0.758 	fairness:0.2813
+
+年龄下NF-FairRec,lamd=5，跑RecFair
+epoch:0 time:391.9  train_loss f:-771.7115 d:15.8836  test_rmse:0.9374	fairness:0.2839
+
+epoch:1 time:315.5  train_loss f:-782.1872 d:15.8484  test_rmse:0.8287	fairness:0.2839
+
+epoch:2 time:291.8  train_loss f:-801.903 d:15.7849  test_rmse:0.754 	fairness:0.2839
+
+epoch:3 time:307.4  train_loss f:-898.6723 d:15.8023  test_rmse:0.9205	fairness:0.2839
+
+epoch:4 time:292.0  train_loss f:-787.9564 d:15.9377  test_rmse:0.8278	fairness:0.2839
+
+epoch:5 time:294.5  train_loss f:-798.5043 d:15.8443  test_rmse:0.7808	fairness:0.2839
+
+epoch:6 time:282.0  train_loss f:-918.9905 d:15.8194  test_rmse:0.8658	fairness:0.2839
+
+epoch:7 time:297.4  train_loss f:-905.7158 d:16.0385  test_rmse:0.8407	fairness:0.2839
+
+epoch:8 time:306.0  train_loss f:-937.8068 d:18.871  test_rmse:0.6043	fairness:0.2799
+
+年龄下NF-FairRec,lamd=5，跑RecFair
+epoch:0 time:274.6  train_loss f:-771.1599 d:15.9164  test_rmse:0.9267	fairness:0.2839
+
+epoch:1 time:273.7  train_loss f:-792.6764 d:15.8652  test_rmse:0.8832	fairness:0.2839
+
+epoch:2 time:275.7  train_loss f:-801.6755 d:15.8487  test_rmse:0.8223	fairness:0.2839
+
+epoch:3 time:285.6  train_loss f:-823.7796 d:15.8583  test_rmse:0.8778	fairness:0.2839
+
+epoch:4 time:284.1  train_loss f:-790.4258 d:15.8843  test_rmse:0.6166	fairness:0.2839
+
+epoch:5 time:290.0  train_loss f:-802.896 d:15.7272  test_rmse:0.6229	fairness:0.2839
+
+epoch:6 time:289.8  train_loss f:-803.4831 d:15.7635  test_rmse:0.6115	fairness:0.2839
+
+epoch:7 time:287.1  train_loss f:-827.1364 d:15.9368  test_rmse:0.8244	fairness:0.2841
+
+epoch:8 time:282.0  train_loss f:-905.9082 d:15.8469  test_rmse:0.8498	fairness:0.2839
+
+epoch:9 time:296.1  train_loss f:-793.3981 d:15.9064  test_rmse:0.5905	fairness:0.2763
+
+epoch:10 time:283.8 train_loss f:-843.2266 d:15.7831  test_rmse:0.7686	fairness:0.2831
+
+epoch:11 time:283.1 train_loss f:-795.3416 d:15.948  test_rmse:0.5974	fairness:0.2813
+
+epoch:12 time:289.0 train_loss f:-788.5472 d:15.8438  test_rmse:0.8346	fairness:0.2841
+
+epoch:13 time:281.1 train_loss f:-815.5322 d:15.8363  test_rmse:0.6387	fairness:0.2811
+
+epoch:14 time:288.8 train_loss f:-805.8335 d:15.858  test_rmse:0.6009	fairness:0.2789
+
+epoch:15 time:290.1 train_loss f:-820.4896 d:15.8478  test_rmse:0.5934	fairness:0.2839
+
+epoch:16 time:303.9 train_loss f:-837.2505 d:15.8135  test_rmse:0.6033	fairness:0.2843
+
+epoch:17 time:290.2 train_loss f:-787.0141 d:15.8834  test_rmse:0.6665	fairness:0.2843
+
+epoch:18 time:290.9 train_loss f:-800.4846 d:15.8231  test_rmse:0.6321	fairness:0.2767
+
+epoch:19 time:273.9 train_loss f:-852.278 d:15.7764  test_rmse:0.9979	fairness:0.4775
+
+epoch:20 time:283.6 train_loss f:-789.1887 d:15.912  test_rmse:0.6196	fairness:0.2799
+
+年龄下NF-FairRec,lamd=10，跑RecFair
+epoch:0 time:277.7  train_loss f:-156.8169 d:15.9881  test_rmse:0.9107	fairness:0.2839
+
+epoch:1 time:279.3  train_loss f:-158.6295 d:15.8646  test_rmse:0.8348	fairness:0.2839
+
+epoch:2 time:281.8  train_loss f:-161.1003 d:15.8602  test_rmse:0.8155	fairness:0.2839
+
+epoch:3 time:284.5  train_loss f:-176.0866 d:15.8837  test_rmse:1.3202	fairness:0.4775
+
+epoch:4 time:284.0  train_loss f:-157.5932 d:15.9103  test_rmse:0.9626	fairness:0.2839
+
+epoch:5 time:288.9  train_loss f:-157.7895 d:15.8655  test_rmse:0.8142	fairness:0.2839
+
+epoch:6 time:280.6  train_loss f:-161.1645 d:15.8328  test_rmse:0.8297	fairness:0.2839
+
+epoch:7 time:287.5  train_loss f:-169.6021 d:15.8514  test_rmse:0.9304	fairness:0.2839
+
+epoch:8 time:285.2  train_loss f:-157.8179 d:15.9618  test_rmse:0.852 	fairness:0.2839
+
+epoch:9 time:282.9  train_loss f:-157.9833 d:15.866  test_rmse:0.6361	fairness:0.2839
+
+epoch:10 time:281.1 train_loss f:-161.4148 d:15.7999  test_rmse:0.7853	fairness:0.2839
+
+epoch:11 time:273.4 train_loss f:-161.3637 d:15.9103  test_rmse:0.7259	fairness:0.2839
+
+epoch:12 time:277.1 train_loss f:-162.3361 d:16.2817  test_rmse:0.5986	fairness:0.2839
+
+epoch:13 time:282.1 train_loss f:-161.6276 d:15.903  test_rmse:0.6211	fairness:0.2839
+
+epoch:14 time:268.9 train_loss f:-162.4078 d:16.2818  test_rmse:0.5897	fairness:0.2839
+
+epoch:15 time:270.7 train_loss f:-162.4676 d:16.2814  test_rmse:0.5941	fairness:0.2839
+
+epoch:16 time:279.4 train_loss f:-161.3349 d:16.2328  test_rmse:0.5921	fairness:0.2787
+
+epoch:17 time:276.4 train_loss f:-161.1627 d:15.8808  test_rmse:0.6652	fairness:0.2839
+
+epoch:18 time:277.2 train_loss f:-166.4564 d:15.9774  test_rmse:0.7023	fairness:0.2839
+
+epoch:19 time:281.4 train_loss f:-181.2395 d:16.0008  test_rmse:0.6195	fairness:0.2839
+
+epoch:20 time:289.5 train_loss f:-159.1832 d:15.964  test_rmse:0.9809	fairness:0.4775
+
+epoch:21 time:281.5 train_loss f:-158.4811 d:15.848  test_rmse:0.8526	fairness:0.2839
+
+epoch:22 time:289.0 train_loss f:-159.93 d:15.8085  test_rmse:0.7914	fairness:0.2839
+
+epoch:23 time:281.3 train_loss f:-157.865 d:15.8396  test_rmse:0.6111	fairness:0.2815
+
+epoch:24 time:285.6 train_loss f:-165.1954 d:15.7295  test_rmse:0.7819	fairness:0.2839
+
+epoch:25 time:280.1 train_loss f:-158.9099 d:15.9352  test_rmse:0.9234	fairness:0.2839
+
+epoch:26 time:278.9 train_loss f:-158.9213 d:15.9411  test_rmse:0.8944	fairness:0.2839
+
+epoch:27 time:290.0 train_loss f:-159.8311 d:15.9205  test_rmse:0.8839	fairness:0.2839
+
+epoch:28 time:291.2 train_loss f:-166.4137 d:15.832  test_rmse:0.7896	fairness:0.2841
+
+epoch:29 time:279.4 train_loss f:-168.7657 d:15.8678  test_rmse:0.8178	fairness:0.2839
+
+epoch:30 time:277.0 train_loss f:-161.8754 d:15.8536  test_rmse:0.9229	fairness:0.2839
+
+epoch:31 time:276.4 train_loss f:-159.5078 d:15.8148  test_rmse:0.8155	fairness:0.2839
+
+epoch:32 time:289.6 train_loss f:-165.7183 d:15.7796  test_rmse:0.8515	fairness:0.2839
+
+epoch:33 time:281.1 train_loss f:-167.5818 d:15.8557  test_rmse:0.8275	fairness:0.2793
+
+epoch:34 time:281.6 train_loss f:-163.7649 d:15.7792  test_rmse:0.9107	fairness:0.2839
+
+epoch:35 time:282.2 train_loss f:-159.4632 d:15.8512  test_rmse:0.913 	fairness:0.2839
+
+epoch:36 time:291.2 train_loss f:-158.654 d:15.8979  test_rmse:0.8718	fairness:0.2839
+
+epoch:37 time:281.7 train_loss f:-159.3887 d:15.8278  test_rmse:0.8849	fairness:0.2839
+
+epoch:38 time:283.1 train_loss f:-161.4828 d:15.8133  test_rmse:0.8617	fairness:0.2839
+
+epoch:39 time:267.8 train_loss f:-160.0263 d:15.8561  test_rmse:0.7464	fairness:0.2839
+
+epoch:40 time:274.6 train_loss f:-163.7224 d:15.7737  test_rmse:0.7694	fairness:0.2839
+
+epoch:41 time:274.9 train_loss f:-161.2539 d:15.8502  test_rmse:0.6665	fairness:0.2753
+
+epoch:42 time:271.2 train_loss f:-163.6909 d:15.7445  test_rmse:0.7214	fairness:0.2843
+
+epoch:43 time:281.1 train_loss f:-159.698 d:15.7471  test_rmse:1.2055	fairness:0.2845
+
+epoch:44 time:280.3 train_loss f:-163.4117 d:15.8297  test_rmse:0.6965	fairness:0.2803
+
+epoch:45 time:285.5 train_loss f:-161.2259 d:15.8159  test_rmse:0.8174	fairness:0.2791
+
+epoch:46 time:283.8 train_loss f:-162.9076 d:15.7661  test_rmse:0.9229	fairness:0.2726
+
+epoch:47 time:295.2 train_loss f:-161.5452 d:15.7852  test_rmse:0.9626	fairness:0.2839
+
+epoch:48 time:280.9 train_loss f:-157.7714 d:15.8845  test_rmse:0.8196	fairness:0.2839
+
+epoch:49 time:286.3 train_loss f:-162.0224 d:15.8086  test_rmse:0.9233	fairness:0.2839
+
+epoch:50 time:277.3 train_loss f:-160.8552 d:15.8319  test_rmse:0.8257	fairness:0.2839
+
+epoch:51 time:287.6 train_loss f:-160.8281 d:15.7938  test_rmse:0.6748	fairness:0.2849
+
+epoch:52 time:280.2 train_loss f:-166.5137 d:15.7862  test_rmse:0.8234	fairness:0.2839
+
+epoch:53 time:280.5 train_loss f:-160.0689 d:16.0938  test_rmse:0.6318	fairness:0.2839
+
+epoch:54 time:279.3 train_loss f:-160.2455 d:15.9137  test_rmse:0.7497	fairness:0.2839
+
+epoch:55 time:281.7 train_loss f:-167.4703 d:15.7774  test_rmse:0.6752	fairness:0.2839
+
+epoch:56 time:277.6 train_loss f:-165.052 d:15.7703  test_rmse:0.7553	fairness:0.2839
+
+epoch:57 time:289.7 train_loss f:-160.1819 d:16.0881  test_rmse:0.5957	fairness:0.2795
+
+epoch:58 time:280.6 train_loss f:-160.1346 d:16.0514  test_rmse:0.6156	fairness:0.2843
+
+epoch:59 time:278.5 train_loss f:-175.6521 d:15.7801  test_rmse:1.0229	fairness:0.239
+
+epoch:60 time:282.7 train_loss f:-158.0569 d:15.9576  test_rmse:0.7535	fairness:0.2839
+
+epoch:61 time:278.8 train_loss f:-159.458 d:15.7921  test_rmse:0.7477	fairness:0.2839
+
+epoch:62 time:285.6 train_loss f:-169.9567 d:15.7634  test_rmse:1.0424	fairness:0.2809
+
+epoch:63 time:278.3 train_loss f:-159.0282 d:15.8769  test_rmse:0.7284	fairness:0.2839
+
+epoch:64 time:278.3 train_loss f:-167.5432 d:15.7917  test_rmse:0.6315	fairness:0.2807
+
+epoch:65 time:275.0 train_loss f:-161.5215 d:15.7691  test_rmse:0.9185	fairness:0.294
+
+epoch:66 time:278.4 train_loss f:-157.8623 d:15.8288  test_rmse:0.7254	fairness:0.2386
+
+epoch:67 time:288.4 train_loss f:-164.3664 d:15.7475  test_rmse:1.0206	fairness:0.4775
+
+epoch:68 time:273.3 train_loss f:-159.2183 d:15.8512  test_rmse:0.7499	fairness:0.2839
+
+epoch:69 time:276.8 train_loss f:-163.8079 d:15.7849  test_rmse:0.6346	fairness:0.2839
+
+epoch:70 time:287.5 train_loss f:-164.3745 d:15.8026  test_rmse:0.6769	fairness:0.2839
+
+epoch:71 time:283.5 train_loss f:-172.604 d:15.839  test_rmse:0.8245	fairness:0.2775
+
+epoch:72 time:287.8 train_loss f:-159.3193 d:15.8706  test_rmse:0.6484	fairness:0.271
+
+epoch:73 time:286.7 train_loss f:-161.0492 d:15.7457  test_rmse:0.8677	fairness:0.2771
+
+epoch:74 time:280.8 train_loss f:-158.6322 d:15.8643  test_rmse:0.6262	fairness:0.2795
+
+epoch:75 time:287.8 train_loss f:-167.3388 d:15.8079  test_rmse:0.6503	fairness:0.2823
+
+epoch:76 time:279.8 train_loss f:-159.1053 d:15.892  test_rmse:0.9689	fairness:0.2162
+
+epoch:77 time:277.2 train_loss f:-159.0998 d:15.872  test_rmse:0.8989	fairness:0.2807
+
+epoch:78 time:271.3 train_loss f:-170.133 d:15.9183  test_rmse:0.8383	fairness:0.2839
+
+epoch:79 time:280.4 train_loss f:-161.7288 d:16.0051  test_rmse:0.9625	fairness:0.2851
+
+epoch:80 time:284.2 train_loss f:-158.1101 d:15.8422  test_rmse:0.9223	fairness:0.2839
+
+epoch:81 time:281.3 train_loss f:-159.384 d:15.8093  test_rmse:0.9097	fairness:0.2839
+
+epoch:82 time:278.3 train_loss f:-158.5875 d:15.833  test_rmse:0.8999	fairness:0.2839
+
+epoch:83 time:279.2 train_loss f:-159.2353 d:15.8697  test_rmse:0.8759	fairness:0.2839
+
+epoch:84 time:277.3 train_loss f:-158.7925 d:15.8238  test_rmse:0.8095	fairness:0.2839
+
+epoch:85 time:287.6 train_loss f:-159.6365 d:15.8749  test_rmse:0.8051	fairness:0.2839
+
+epoch:86 time:278.1 train_loss f:-158.4421 d:15.8866  test_rmse:0.7267	fairness:0.2839
+
+epoch:87 time:283.9 train_loss f:-158.4921 d:15.8587  test_rmse:0.7368	fairness:0.2839
+
+epoch:88 time:282.9 train_loss f:-163.0036 d:15.7832  test_rmse:0.7211	fairness:0.2839
+
+epoch:89 time:280.8 train_loss f:-158.5696 d:15.8289  test_rmse:0.9117	fairness:0.2839
+
+epoch:90 time:277.1 train_loss f:-166.7776 d:15.7996  test_rmse:0.8857	fairness:0.2839
+
+epoch:91 time:270.6 train_loss f:-159.4884 d:16.0091  test_rmse:0.9303	fairness:0.2839
+
+epoch:92 time:272.8 train_loss f:-159.8913 d:15.9284  test_rmse:0.9484	fairness:0.2839
+
+epoch:93 time:280.1 train_loss f:-159.3922 d:15.9326  test_rmse:0.9851	fairness:0.4775
+
+epoch:94 time:277.4 train_loss f:-160.6265 d:15.9483  test_rmse:1.4207	fairness:0.4775
+
+epoch:95 time:284.3 train_loss f:-159.9035 d:15.8204  test_rmse:0.883 	fairness:0.2839
+
+epoch:96 time:278.9 train_loss f:-162.9794 d:15.8423  test_rmse:1.065 	fairness:0.2839
+
+epoch:97 time:284.9 train_loss f:-159.1622 d:15.9579  test_rmse:0.9564	fairness:0.2843
+
+年龄下FairGo,lamd=10，跑RecFair
+epoch:0 time:278.8  train_loss f:-157.1759 d:15.9047  test_rmse:0.9217	fairness:0.2839
+
+epoch:1 time:278.2  train_loss f:-160.3908 d:15.8543  test_rmse:0.8394	fairness:0.2839
+
+epoch:2 time:277.7  train_loss f:-160.6385 d:15.8726  test_rmse:0.7899	fairness:0.2839
+
+epoch:3 time:283.6  train_loss f:-166.9625 d:15.8728  test_rmse:1.0356	fairness:0.2839
+
+epoch:4 time:280.4  train_loss f:-160.6656 d:15.8646  test_rmse:0.9216	fairness:0.2853
+
+epoch:5 time:282.3  train_loss f:-159.0726 d:15.8825  test_rmse:0.838 	fairness:0.2839
+
+epoch:6 time:283.2  train_loss f:-159.8909 d:15.8263  test_rmse:0.8061	fairness:0.2839
+
+epoch:7 time:277.4  train_loss f:-181.3814 d:15.7866  test_rmse:0.8448	fairness:0.4731
+
+epoch:8 time:273.8  train_loss f:-162.1353 d:16.3912  test_rmse:0.7093	fairness:0.2539
+
+epoch:9 time:279.7  train_loss f:-162.2576 d:16.2814  test_rmse:0.6962	fairness:0.396
+
+epoch:10 time:281.1 train_loss f:-162.3071 d:16.2815  test_rmse:0.6892	fairness:0.4406
+
+epoch:11 time:284.2 train_loss f:-162.3444 d:16.2815  test_rmse:0.6847	fairness:0.2646
+
+epoch:12 time:280.1 train_loss f:-161.3074 d:16.0864  test_rmse:0.7596	fairness:0.2839
+
+epoch:13 time:278.7 train_loss f:-164.9898 d:15.8951  test_rmse:0.9097	fairness:0.2728
+
+epoch:14 time:275.8 train_loss f:-159.9819 d:15.7392  test_rmse:0.8876	fairness:0.2839
+
+epoch:15 time:279.8 train_loss f:-180.8927 d:15.7803  test_rmse:0.9051	fairness:0.2839
+
+epoch:16 time:284.2 train_loss f:-159.963 d:15.8818  test_rmse:0.9593	fairness:0.2839
+
+epoch:17 time:275.4 train_loss f:-163.781 d:15.8426  test_rmse:0.9216	fairness:0.2827
+
+epoch:18 time:273.8 train_loss f:-177.1353 d:15.8148  test_rmse:0.8538	fairness:0.2839
+
+epoch:19 time:283.3 train_loss f:-160.1575 d:16.1248  test_rmse:0.6983	fairness:0.2835
+
+epoch:20 time:275.7 train_loss f:-161.0116 d:15.864  test_rmse:0.7112	fairness:0.2839
+
+epoch:21 time:276.1 train_loss f:-160.4001 d:15.8287  test_rmse:0.7253	fairness:0.2839
+
+epoch:22 time:288.0 train_loss f:-175.4083 d:15.8051  test_rmse:0.7678	fairness:0.2839
+
